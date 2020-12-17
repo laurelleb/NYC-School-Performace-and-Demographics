@@ -1,5 +1,6 @@
 # NYC-School-Performace-and-Demographics
 by Laurelle Banta
+
 Linkedin (https://www.linkedin.com/in/laurellebanta)
 
 ## Introduction
